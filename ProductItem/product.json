@@ -1,0 +1,406 @@
+[
+  {
+    "id": "10",
+    "title": "SanDisk SSD PLUS 1TB Internal SSD - SATA III 6 Gb/s",
+    "price": 109,
+    "description": "Easy upgrade for faster boot up, shutdown, application load and response (As compared to 5400 RPM SATA 2.5” hard drive; Based on published specifications and internal benchmarking tests using PCMark vantage scores) Boosts burst write performance, making it ideal for typical PC workloads The perfect balance of performance and reliability Read/write speeds of up to 535MB/s/450MB/s (Based on internal testing; Performance may vary depending upon drive capacity, host device, OS and application.)",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/61U7T1koQqL._AC_SX679_.jpg"
+  },
+  {
+    "id": "11",
+    "title": "Silicon Power 256GB SSD 3D NAND A55 SLC Cache Performance Boost SATA III 2.5",
+    "price": 109,
+    "description": "3D NAND flash are applied to deliver high transfer speeds Remarkable transfer speeds that enable faster bootup and improved overall system performance. The advanced SLC Cache Technology allows performance boost and longer lifespan 7mm slim design suitable for Ultrabooks and Ultra-slim notebooks. Supports TRIM command, Garbage Collection technology, RAID, and ECC (Error Checking & Correction) to provide the optimized performance and enhanced reliability.",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/71kWymZ+c+L._AC_SX679_.jpg"
+  },
+
+  {
+    "id": "13",
+    "title": "Acer SB220Q bi 21.5 inches Full HD (1920 x 1080) IPS Ultra-Thin",
+    "price": 599,
+    "description": "21. 5 inches Full HD (1920 x 1080) widescreen IPS display And Radeon free Sync technology. No compatibility for VESA Mount Refresh Rate: 75Hz - Using HDMI port Zero-frame design | ultra-thin | 4ms response time | IPS panel Aspect ratio - 16: 9. Color Supported - 16. 7 million colors. Brightness - 250 nit Tilt angle -5 degree to 15 degree. Horizontal viewing angle-178 degree. Vertical viewing angle-178 degree 75 hertz",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81QpkIctqPL._AC_SX679_.jpg",
+    "feature": true
+  },
+  {
+    "id": "14",
+    "title": "Samsung 49-Inch CHG90 144Hz Curved Gaming Monitor (LC49HG90DMNXZA) – Super Ultrawide Screen QLED ",
+    "price": 999.99,
+    "description": "49 INCH SUPER ULTRAWIDE 32:9 CURVED GAMING MONITOR with dual 27 inch screen side by side QUANTUM DOT (QLED) TECHNOLOGY, HDR support and factory calibration provides stunningly realistic and accurate color and contrast 144HZ HIGH REFRESH RATE and 1ms ultra fast response time work to eliminate motion blur, ghosting, and reduce input lag",
+    "category": "electronics",
+    "image": "https://fakestoreapi.com/img/81Zt42ioCgL._AC_SX679_.jpg"
+  },
+
+  {
+    "id": "21",
+    "title": "iphone x",
+    "price": 6000000,
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "image": "https://images.pexels.com/photos/1275229/pexels-photo-1275229.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "22",
+    "title": "samsung s20",
+    "price": 5000000,
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "image": "https://images.pexels.com/photos/404280/pexels-photo-404280.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "feature": true
+  },
+  {
+    "id": "23",
+    "title": "Dell Series",
+    "price": 600000,
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "image": "https://images.pexels.com/photos/7974/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "24",
+    "title": "Nokia 420",
+    "price": 12599,
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "mobile",
+    "image": "https://images.pexels.com/photos/4224099/pexels-photo-4224099.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "25",
+    "title": "Mac Pc",
+    "price": 4000099,
+    "description": "The Computer is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "image": "https://images.pexels.com/photos/1029757/pexels-photo-1029757.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "26",
+    "title": "Macbook Pro",
+    "price": 42999,
+    "description": "The Laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "image": "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "27",
+    "title": "Asus gseries",
+    "price": 23999,
+    "description": "The laptop is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "laptop",
+    "image": "https://images.pexels.com/photos/261662/pexels-photo-261662.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "28",
+    "title": "Accessories",
+    "price": 1099999,
+    "description": "The accessories is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "electronics",
+    "image": "https://images.pexels.com/photos/3178938/pexels-photo-3178938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "29",
+    "title": "Iwatch",
+    "price": 39999,
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "image": "https://images.pexels.com/photos/437037/pexels-photo-437037.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "30",
+    "title": "user need",
+    "price": 300099,
+    "description": "The mobile is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "accessories",
+    "image": "https://images.pexels.com/photos/1619651/pexels-photo-1619651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "31",
+    "title": "rolex premium",
+    "price": 999999,
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "image": "https://images.pexels.com/photos/1697214/pexels-photo-1697214.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "32",
+    "title": "galaxy w20",
+    "price": 311999,
+    "description": "This watch is compact with its 6.2-inch OLED screen and far lighter at 168g. It perfectly captures the design, looks, and feel of the expensive one. It comes with a snapdragon processor with a 5n chip in it. It has a 200mp camera in the rear 100mp in front perfect for selfie lovers. It also support HDR content means you can watch 4K content on it.",
+    "category": "watch",
+    "image": "https://images.pexels.com/photos/51011/pexels-photo-51011.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+  },
+  {
+    "id": "33",
+    "title": "Refurbished Apple Watch",
+    "price": 10000,
+    "brand": "apple",
+    "description": "The Apple Watch SE displays Activity rings that let you know how much you moved, exercised, and stood using three simple metrics. With this data, you’ll be encouraged to have some healthy competition with friends and family. You can also enjoy awards and personalised coaching. The Apple Watch SE provides water resistance up to 50 m so that you can get into the water without worrying about damaging the device.",
+    "category": "watch",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSk76R-tCenrkjNf7FU9myRPK7asJQc4R6rfw&usqp=CAU"
+  },
+
+  {
+    "id": "35",
+    "title": "Apple Watch Series 8 45mm GPS Aluminium/Sport Band",
+    "price": 60000,
+    "brand": "apple",
+    "description": "The aluminum case is lightweight and made from 100 percent recycled aerospace-grade alloy. The Sport Band is made from a durable yet surprisingly soft high-performance fluoroelastomer with an innovative pin-and-tuck closure.",
+    "category": "watch",
+    "image": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLT3ref_VW_34FR+watch-45-alum-midnight-nc-8s_VW_34FR_WF_CO?wid=700&hei=700&trim=1%2C0&fmt=p-jpg&qlt=95&.v=1660778409162%2C1661968921009"
+  },
+  {
+    "id": "36",
+    "title": "Samsung Galaxy Watch 4 Classic 46Mm",
+    "price": 45000,
+    "brand": "samsung",
+    "description": " Some looks are timeless, like the Galaxy Watch4 Classic's rotating bezel and vivid screen. The refined design brings sophistication to your wrist and its high-end stainless steel materials express its powerful and intuitive functionality.",
+    "category": "watch",
+    "image": "https://www.samsung.com/global/galaxy/galaxy-watch4-classic/specs/images/galaxy-watch4-classic_specs_design_stainless_steel-lte-bluetooth-46mm-black_s3.jpg"
+  },
+
+  {
+    "id": "38",
+    "title": "Samsung Galaxy Watch4 Classic",
+    "price": 45000,
+    "brand": "samsung",
+    "description": " This rotating bezel turns more than heads Some looks are timeless, like the Galaxy Watch4 Classic's rotating bezel and vivid screen. The refined design adds sophistication to your wrist for an elevated style.",
+    "category": "watch",
+    "image": "https://fdn2.gsmarena.com/vv/bigpic/samsung-galaxy-watch4.jpg"
+  },
+  {
+    "id": "39",
+    "title": "MacBook Pro 14” 2021 Apple M1 Pro chip with 10-Core CPU 16-Core GPU 1TB SSD Storage 16GB Unified Memory",
+    "price": 100000,
+    "brand": "apple",
+    "description": "Silver ,Space Gray, 10-core CPU with 8 performance cores and 2 efficiency cores 16-core GPU 16-core Neural Engine 200GB/s memory bandwidth Liquid Retina XDR display 14.2-inch (diagonal) Liquid Retina XDR display;1 3024-by-1964 native resolution at 254 pixels per inch XDR (Extreme Dynamic Range)– Up to 1000 nits sustained (full-screen) brightness, 1600 nits peak brightness. 1,000,000:1 contrast ratio",
+    "category": "laptop",
+    "image": "https://www.macsupportnepal.com/wp-content/uploads/2021/10/mbp14-spacegray-select-202110-600x558.jpeg"
+  },
+
+  {
+    "id": "40",
+    "title": "Game-changing MacBook Pro with M1 Pro and M1 Max",
+    "price": 140000,
+    "brand": "apple",
+    "description": " The new MacBook Pro features a 1080p camera, the best audio system in a notebook, and the most advanced connectivity ever in a MacBook Pro Apple today unveiled the completely reimagined MacBook Pro powered by the all-new M1 Pro and M1 Max — the first pro chips designed for the Mac. Available in 14- and 16-inch models, MacBook Pro delivers groundbreaking processing, graphics, and machine learning (ML) performance whether running on battery or plugged in, as well as amazing battery life — enabling workflows previously unimaginable on a notebook. The new MacBook Pro also features a stunning Liquid Retina XDR display, a wide range of ports for advanced connectivity, a 1080p FaceTime HD camera, and the best audio system in a notebook. Combined with macOS Monterey, which is engineered down to its core to take full advantage of M1 Pro and M1 Max, the user experience is simply unrivaled. Shattering the limits of what a notebook can do, MacBook Pro is designed for developers, photographers, filmmakers, 3D artists, scientists, music producers, and anyone who wants the world’s best notebook.",
+    "category": "laptop",
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg"
+  },
+  {
+    "id": "41",
+    "title": "New MacBook Air",
+    "price": 205000,
+    "brand": "apple",
+    "description": "Offering quad-core processors for the first time, MacBook Air now delivers even more speed across everyday activities, from organizing photos and creating presentations to editing videos. Featuring the latest 10th-generation Intel Core processors up to 1.2GHz quad-core Core i7 with Turbo Boost speeds up to 3.8GHz, MacBook Air delivers up to two times faster performance when compared to the previous generation. And with Intel Iris Plus Graphics, MacBook Air now delivers up to 80 percent faster graphics performance, so graphics-intensive activities like playing games and editing video are faster than ever. ",
+    "category": "laptop",
+    "image": "https://www.apple.com/newsroom/images/product/mac/standard/Apple_new-macbook-air-wallpaper-screen_03182020_big.jpg.large.jpg",
+    "feature": true
+  },
+
+  {
+    "id": "42",
+    "title": "Samsung Notebook 9 Pro",
+    "price": 100000,
+    "brand": "samsung",
+    "description": "The Samsung Notebook 9 Pro takes advantage of a breathtaking display, reduced bezels, and dual 1.5W stereo speakers with Thunder Amp to increase maximum volume output, while offering a fully immersive experience as you create, work, or enjoy. It also features a comprehensively redesigned keyboard, and 14 hours of battery life¹, so you can get things done faster, better, and wherever. The Samsung Notebook 9 Pro runs on a Windows 10 Home operating system, and is built for creative-minded professionals who are looking for products to bring their ideas to life. And the Active Pen—with more than 4000 levels of pressure sensitivity—comes included in the box, and will inspire users to write, draw, and create both for work and fun.",
+    "category": "laptop",
+    "image": "https://img.us.news.samsung.com/us/wp-content/uploads/2019/01/14103832/Notebook-9-Pro-3-950x633.jpg"
+  },
+
+  {
+    "id": "43",
+    "title": "iPhone 14 Pro Max",
+    "price": 175000,
+    "brand": "apple",
+    "description": "iPhone 14 Pro Max. Capture incredible detail with a 48MP Main camera. Experience iPhone in a whole new way with Dynamic Island and Always-On display. Crash Detection, a new safety feature, calls for help when you can’t. Experience a 6.7-inch Super Retina XDR Display with ProMotion, Cinematic mode in 4K Dolby Vision up to 30 fps and action mode for smooth, steady handheld videos. Enjoy more with all-day battery life and up to 29 hours of video playback, the new A16 Bionic chip, superfast 5G cellular and the new iOS 16 which offers even more ways to personalise, communicate and share.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fapple%2Fiphone-14-pro-max%2Fiphone-14-pro-max-deep-purple-feature1-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "44",
+    "title": "iphone 14 plus",
+    "price": 155000,
+    "brand": "apple",
+    "description": "iPhone 14 Plus. Think big with a larger 6.7-inch display and all-day battery life. Capture stunning photos in low light and bright light with the new dual-camera system. Crash Detection, a new safety feature, calls for help when you can’t. Experience a 6.7-inch Super Retina XDR Display, Cinematic mode in 4K Dolby Vision up to 30 fps and action mode for smooth, steady handheld videos. Enjoy more with all-day battery life and up to 26 hours of video playback, an A15 Bionic chip with 5-core GPU for lightning-fast performance, superfast 5G cellular and the new iOS 16 which offers even more ways to personalise, communicate and share.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fapple%2Fiphone-14-plus%2Fiphone-14-plus-blue-feature1-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "45",
+    "title": "mobile",
+    "price": 140000,
+    "brand": "apple",
+    "description": " iPhone 14. With the most impressive dual-camera system on iPhone. Capture stunning photos in low light and bright light. Get peace of mind with vital safety features. Experience a 6.1-inch Super Retina XDR Display, Cinematic mode in 4K Dolby Vision up to 30 fps and action mode for smooth, steady handheld videos. Enjoy more with all-day battery life and up to 20 hours of video playback, an A15 Bionic chip with 5-core GPU for lightning-fast performance, superfast 5G cellular and the new iOS 16 which offers even more ways to personalise, communicate and share.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fapple%2Fiphone-14%2Fiphone-14-blue-feature1-l.jpg&w=1920&q=90"
+  },
+
+  {
+    "id": "46",
+    "title": "Samsung Galaxy Z Fold4 5G",
+    "price": 80000,
+    "brand": "samsung",
+    "description": "Introducing the Galaxy Z Fold4 5G from Samsung. This is Samsung’s lightest Fold yet, and comes packed with incredible features. The 7.6-inch folding inner display allows you to jump straight from a smartphone to a tablet-like experience; while the convenient Flex Mode means you can make hands-free video calls or prop the Galaxy Z Fold4 5G at the perfect angle to immerse yourself in your favourite show. With a massive internal memory, 4400mAh battery and 25W fast charging, the Galaxy Z Fold4 5G is a true powerhouse.      ",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fsamsung%2Fsamsung-galaxy-z-fold4%2Fsamsung-galaxy-z-fold4-greygreen-01-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "47",
+    "title": "Samsung Galaxy Z Flip4 5G",
+    "price": 80000,
+    "brand": "samsung",
+    "description": "The Samsung Galaxy Z Flip4 5G is the full screen phone that can fold to fit in your pocket. It’s small, durable and comes in a range of statement colours to fit your style. Flex Mode allows you to go hands-free for video chats and selfies, while the interactive cover screen means you can check messages, take photos, play music and more without ever having to open your phone. The Galaxy Z Flip4 5G also features the Quick Selfie function, which means you can snap selfies quickly even while the cover is closed.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fsamsung%2Fsamsung-galaxy-z-flip4-5g%2Fsamsung-galaxy-z-flip4-purple-01-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "48",
+    "title": "Samsung Galaxy S22 Ultra 5G",
+    "price": 40000,
+    "brand": "samsung",
+    "description": "We are breaking the rules of innovation with the Galaxy S22 Ultra 5G. Setting the standard at being our most epic smartphone. Our most advanced Pro-grade camera yet. Shoot in 108MP – the highest resolution on a smartphone in Australia and the largest pixel sensor and auto frame rate, bringing Nightography to life. Galaxy S22 Ultra 5G has the longest battery life ever on a Galaxy S Series and the first with an embedded S Pen. It has the brightest display and the fastest chip ever in a Galaxy smartphone, plus the strongest Gorilla Glass Victus+ and our strongest Armor Aluminium frame on a Galaxy device.   ",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Fsamsung%2Fsamsung-galaxy-s22-ultra%2Fsamsung-galaxy-s22-ultra-burgundy-front-l.jpg&w=1920&q=90"
+  },
+
+  {
+    "id": "49",
+    "title": "OPPO Find X5 Pro 5G",
+    "price": 80000,
+    "brand": "oppo",
+    "description": "The OPPO Find X5 Pro 5G features a premium ceramic design, created to be smooth to the touch yet tough enough for everyday use. Take it on all your adventures and capture every moment thanks to the Hasselblad Camera for Mobile. Plus, you can enjoy super-fast charging thanks to the 80W SUPERVOOCTM Flash Charge, which can deliver a 50% charge in just 12 minutes.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Foppo%2Foppo-find-x5-pro-5g%2Foppo-find-x5-pro-ceramic-white-front-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "50",
+    "title": "OPPO A57 4G",
+    "price": 80000,
+    "brand": "oppo",
+    "description": "Feel beyond ordinary with OPPO A57 4G. With Superfast 33W SUPERVOOC™, there’s no more waiting around for your phone to charge – you’ll be able to charge up and get out the door fast. Plus, thanks to the 6.56-inch Colour-Rich Display, images and videos will spring to life whether you’re scrolling social media, playing a game or watching a video.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Foppo%2Foppo-a57-4g%2Foppo-a57-glowing-black-front-l.jpg&w=1920&q=90"
+  },
+  {
+    "id": "51",
+    "title": "OPPO Reno8 5G",
+    "price": 40000,
+    "brand": "oppo",
+    "description": "Keep shining fearlessly with OPPO Reno8 5G. The Dual Sony Flagship Sensors deliver greater dynamic range, incredible noise reduction and reduced motion ghosting while Ultra Night Video helps you to see the details of shadows. The 80W SUPERVOOC™ charging gets your Reno8 5G up and running in no time while the sleek, streamlined, unibody design fits comfortably in your hand. Plus Reno8 5G is powered by the MediaTek Dimensity 1300, an incredibly power efficient chip.",
+    "category": "mobile",
+    "image": "https://www.vodafone.com.au/_next/image?url=https%3A%2F%2Fwww.vodafone.com.au%2Fimages%2Fdevices%2Foppo%2Foppo-reno-8-5g%2Foppo-reno8-5g-shimmer-black-front-l.jpg&w=1920&q=90"
+  },
+
+  {
+    "id": "55",
+    "title": "Mi NoteBook Ultra",
+    "price": 136999,
+    "description": "- 3.2K Mi TrueLife+ Display - Large Anti-glare Display 39.62 cm (15.6) . - 100% sRGB - 16:10 Aspect ratio, 242 PPI -90Hz smooth refresh rate - Powerful and latest 11th Generation Intel® Core™ i7-11370H/i5-11300H. - Iris Xe Graphics which trades blows with discrete mobile GPUs. - Quick transfer speeds, boot-up and wake-up times with 512 GB NVMe SSD storage - Up to 16GB 3200 MHz DDR4 RAM for effortless multi-tasking and smooth performance. - Tactile backlit keyboard for an enjoyable and stress-free typing experience. - Multi-touch Trackpad lets you swipe, scroll and select easily. -Thunderbolt 4, USB Type-C, HDMI 1.4, USB 3.2, 3.5mm combo audio jack - 112 Hour all day battery, which charges up to 50% in 45 minutes - Windows 10 Home, Office 2019 Home & Student 2019 comes pre-installed",
+    "category": "laptop",
+    "image": "https://i02.appmifile.com/734_operator_sg/11/04/2022/cfab1baf7f1fb5f2bb92f88d9c0b7e9a.png",
+    "brand": "mi",
+    "rate": "4.2"
+  },
+  {
+    "id": "56",
+    "title": "Mi NoteBook Ultra",
+    "price": 42999,
+    "description": "Flagship Display. Ultra Performance. Mi NoteBook Ultra is a powerful laptop that brings a host of features never seen before in the thin and light productivity segment. It's perfect for a power user - anyone who is trying to enhance their productivity and also or indulge in content creation. and consumption. Whether you are programming, editing photos or videos, number crunching or even playing casual games, this notebook will be a capable companion. The laptop combines powerful hardware with even capable software to provide blistering fast performance.  Mi NoteBook UltraFeatures: - 3.2K Mi TrueLife+ Display - Large Anti-glare Display 39.62 cm (15.6) . - 100% sRGB - 16:10 Aspect ratio, 242 PPI -90Hz smooth refresh rate - Powerful and latest 11th Generation Intel® Core™ i7-11370H/i5-11300H. - Iris Xe Graphics which trades blows with discrete mobile GPUs. - Quick transfer speeds, boot-up and wake-up times with 512 GB NVMe SSD storage - Up to 16GB 3200 MHz DDR4 RAM for effortless multi-tasking and smooth performance. - Tactile backlit keyboard for an enjoyable and stress-free typing experience. - Multi-touch Trackpad lets you swipe, scroll and select easily. -Thunderbolt 4, USB Type-C, HDMI 1.4, USB 3.2, 3.5mm combo audio jack - 112 Hour all day battery, which charges up to 50% in 45 minutes - Windows 10 Home, Office 2019 Home & Student 2019 comes pre-installed",
+    "category": "laptop",
+    "image": "https://i02.appmifile.com/350_operator_sg/25/08/2021/03423ae857b24c28541e0e9fd27436bd.png",
+    "brand": "mi",
+    "rate": "4.2"
+  },
+  {
+    "id": "57",
+    "title": "RedmiBook 15 Pro",
+    "price": 89999,
+    "description": "Display 39.6cm(15.6) Display Full HD (1920 x 1080) Resolution Performance 11th Gen Intel® Core™ i5-11300H4.4GHz max clock Intel® Iris® Xe Graphics Memory 8GB DDR4 3200MHz Storage 512GB PCIe NVMe SSD Wireless 2 X 2 Dual Band Wi-Fi 5 Bluetooth V5.0 Interface 1 x USB 2.0 2 x USB 3.2 Gen 1 1 x HDMI 1.4 1 x RJ45 (LAN port) 1 x 3.5mm audio jack Keyboard Scissor Mechanism 1.5mm key travel Touchpad Multi-touch with support for Windows Precision drivers Webcam 720p (HD) Audio 2 x 2W Stereo speaker Support for DTS audio processing app 3.5mm combo audio jack In-built microphone Battery and Power 10-Hour all day battery 46WHr 65W power adapter Weight and Dimensions Material: Polycarbonate with brushed metallic finish Thickness: 19.9 mm Length: 363.8 mm Width: 243.5 mm Weight: 1.8 kg",
+    "image": "https://i01.appmifile.com/webfile/globalimg/products/pc/redmi-book-pro/specs01.png",
+    "brand": "mi",
+    "rate": "4.2"
+  },
+  {
+    "id": "58",
+    "title": "Dell Vostro 3510 i3 11th Gen / 4GB RAM / 1TB HDD / 15.6'HD Display",
+    "price": 60000,
+    "description": "Dell Vostro 3510 with 11th Generation Intel Core i3-1115G4 Processor, 4GB DDR4 RAM (Expandable up to 16GB), 1TB HDD Storage (Additional SSD slot available for storage expansion), 15.6-inch HD display, 41-WattHour battery, 1.69KG Weight, 0.7-inch thickness, Dual speakers , Comes with 1-year warranty, ITTI Computer World Pvt Ltd offers a free mouse and a laptop bag as complimentary gifts",
+    "category": "laptop",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/v/o/vostro_3510_2.jpeg",
+    "brand": "dell",
+    "rate": "4.2"
+  },
+  {
+    "id": "59",
+    "title": "Dell Inspiron 3505 Ryzen 7 3700U / 8GB RAM / 512GB SSD / Vega 8/ 15.6 FHD display",
+    "price": 82000,
+    "description": "Brand new factory-sealed Dell Inspiron 3505 AMD Ryzen 7 3700U processor, AMD VEGA 8 Graphics, 8GB DDR4 RAM (Expandable up to 16GB), 512GB SSD Storage (Additional HDD slot for storage expansion), 15.6-inch IPS display with Full-HD (1920 x 1080 pixels) resolution, 42-WattHour battery, 1.78KG Weight, 0.71-inch thickness, Dual speakers tuned with Waves MaxxAudio, ITTI Computer World Pvt Ltd offers a 1-year warranty on this laptop and provides a mouse and a laptop bag as complimentary gifts",
+    "category": "laptop",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/d/e/dell-vostro-3500-price-nepal-cheap-affordable-laptop_1_1.jpg",
+    "brand": "dell",
+    "rate": "4.2"
+  },
+  {
+    "id": "60",
+    "title": "Dell Inspiron 5415 Ryzen 5 5500U / 8GB RAM / 256GB SSD / Vega 8 / 14 FHD display",
+    "price": 95000,
+    "description": "Brand new factory sealed Dell Inspiron 5415 with 5000-series AMD Ryzen 5 5500U processor featuring HEX-core (6-core) CPU, AMD VEGA 8 Graphics, 8GB DDR4 RAM (Expandable up to 16GB), 256GB SSD Storage (Additional HDD slot for storage expansion), 14-inch IPS display with Full-HD (1920 x 1080 pixels) resolution, 54-WattHour battery, 1.4KG Weight, 0.71-inch thickness, Dual speakers tuned with Waves MaxxAudio, ITTI Computer World Pvt Ltd offers a 1-year warranty on this laptop and provides a mouse and a laptop bag as complimentary gifts",
+    "category": "laptop",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/5/5/5515_4_1_1.jpeg",
+    "brand": "dell",
+    "rate": "4.2"
+  },
+  {
+    "id": "61",
+    "title": "Transcend 512GB PCIe NVMe M.2 SuperSpeed SSD – MTE 110s 512GB PCIe Gen3 x4 Internal SSD",
+    "price": 11250,
+    "description": "Transcend's 512GB PCIe NVMe SSD 110S utilizes the PCI Express® Gen3 x4 interface supported by the latest NVMe™ standard, to unleash next-generation performance. The PCIe SSD 110S aims at high-end applications, such as digital audio/video production, gaming, and enterprise use, which require constant processing of heavy workloads with no system lags or slowdowns of any kind. Powered by 3D NAND flash memory, the PCIe SSD 110S gives you not only fast transfer speeds but unmatched reliability. Compelling performance for high-end applications Understanding the PCIe interface Understanding the NVMe standard Understanding the NVMe standard Better endurance, higher reliability Transcend SSD Scope software",
+    "category": "electronics",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/926507dc7f93631a094422215b778fe0/t/r/transcend-512gb-pcie-nvme-ssd-price-nepal-110s-superspeed.jpg",
+    "brand": "Transcend",
+    "rate": "4"
+  },
+  {
+    "id": "62",
+    "title": "Asus TUF Gaming H3 7.1 Surround Sound And Deep Bass Gaming Headset",
+    "price": 8500,
+    "description": "Brand New Asus TUF Gaming H3 7.1 Surround Sound Discord Certified Gaming Headset.Supports PC, PS5, Xbox One and Nintendo Switch, featuring 7.1 surround sound, deep bass, lightweight design, fast-cooling ear cushions",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/a/s/asus-tuf-h3-gaming-headset-price-nepal_11zon.jpg",
+    "category": "electronics",
+    "brand": "Asus",
+    "rate": "4.1"
+  },
+
+  {
+    "id": "64",
+    "title": "Asus ROG Strix GeForce RTX 3070 Ti OC Edition Graphics Card - 8GB GDDR6X (ROG-STRIX-RTX3070TI-O8G-GAMING)",
+    "price": 177000.0,
+    "description": "Multiprocessors: The building blocks for the world’s fastest, most efficient GPUs, the all-new Ampere SM brings 2X the FP32 throughput and improved power efficiency. 2nd Generation RT Cores: Experience 2X the throughput of 1st gen RT Cores, plus concurrent RT and shading for a whole new level of ray tracing performance. 3rd Generation Tensor Cores: Get up to 2X the throughput with structural sparsity and advanced AI algorithms such as DLSS. These cores deliver a massive boost in-game performance and all-new AI capabilities. OC edition: Boost clock 1875 MHz (OC mode)/ 1845 MHz (Gaming Mode) Axial-tech Fan Design has been tuned up with more fan blades and a reversed rotational direction for the center fan. 2.9-slot design expands cooling surface area compared to last-gen for more thermal headroom than ever before. Super Alloy Power II includes premium alloy chokes, solid polymer capacitors, and an array of high-current power stages. GPU Tweak II provides intuitive performance tweaking, thermal controls, and system monitoring.",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/3/0/3070ti_1.jpeg",
+    "category": "electronics",
+    "brand": "Asus",
+    "rate": "4.7"
+  },
+  {
+    "id": "65",
+    "title": "ASUS RT-N12+ Wi-Fi Router - Dual Antenna, Up to 300 Mbps, 4 LAN ports",
+    "price": 3111,
+    "description": "Input Type RJ-45 (Ethernet Cable) that works well with the internet from ISPs like Worldlink, Vianet, Subisu, ClassicTech, etc. Multiple 3-in-1 Router/Access Point /Range Extender wireless modes Two Non-Detachable 5dBi antennas for more powerful and wider coverage 4 SSIDs help manage bandwidth allocation and access control Powerful Online Multitasking at up to 30,000 Data Sessions",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/a/s/asus-rt-n12_-3-in-1-router-price-nepal.jpg",
+    "category": "electronics",
+    "brand": "Asus",
+    "rate": "4"
+  },
+  {
+    "id": "66",
+    "title": "Logitech MeetUp Conference Cam - 4K Sensor, 120° FOV, Integrated Mics and Speakers",
+    "price": 165000,
+    "description": "Logitech MeetUp is a premier ConferenceCam designed for small conference rooms and huddle rooms. With a room capturing, super-wide 120° field of view, MeetUp makes every seat at the table clearly visible. Motorized pan/tilt widens FOV up to 175°. A low-distortion Logitech-engineered lens, Ultra HD 4K optics, and three camera presets deliver remarkable video quality and further enhance face-to-face collaboration. MeetUp’s integrated audio is optimized for huddle room acoustics and delivers an exceptional sound experience. Three horizontally-aimed beam-forming mics and a custom-tuned speaker help ensure your meetings sound as great as they look. MeetUp’s front-of-room audio provides an intuitive and coherent listening experience. With a compact all-in-one design that minimizes cable clutter, MeetUp is a USB plug-and-play and works right out of the box with any video conferencing software application and cloud service - including the ones you already use",
+    "image": "https://itti.com.np/pub/media/catalog/product/cache/cf3f2243ef4940fd5c66f2ff035145ac/l/o/logitech-meetup-conference-cam-price-nepal-120-degree-super-wide.jpg",
+    "category": "electronics",
+    "brand": "Logitech",
+    "rate": "4"
+  }
+]
