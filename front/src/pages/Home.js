@@ -7,7 +7,6 @@ function Home() {
   return (
     <div className="home">
       <div className="home__container">
-        ;
         <Link to={"/details/26"}>
           <img
             className="home__image"
