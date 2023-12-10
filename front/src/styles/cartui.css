@@ -1,0 +1,37 @@
+.table {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.table-row {
+  display: flex;
+  flex-direction: row;
+  width: 100%;
+  border-bottom: 1px solid black;
+}
+
+.table-cell {
+  flex-basis: 0;
+  flex-grow: 1;
+  padding: 10px;
+  text-align: center;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+/* @media (max-width: 900px) {
+    .table-row {
+      flex-wrap: wrap;
+    }
+    .table-cell {
+      flex-basis: 50%;
+    }
+  }
+  
+  @media (max-width: 600px) {
+    .table-cell {
+      flex-basis: 100%;
+    }
+  } */

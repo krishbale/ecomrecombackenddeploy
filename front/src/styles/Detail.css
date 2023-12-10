@@ -1,0 +1,97 @@
+.detail {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 1rem;
+  align-items: center;
+  min-height: 55vh;
+  margin: 2rem 1rem;
+}
+@media (max-width: 900px) {
+  .detail {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+@media (max-width: 600px) {
+  .detail {
+    display: grid;
+    grid-template-columns: 1fr;
+  }
+}
+.detail .image-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+  overflow: hidden;
+}
+.detail .image-container .image {
+  width: fit-content;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+.detail .image img {
+  height: 100%;
+  padding: 1rem 2rem;
+}
+.detail .description {
+  padding: 0 1rem;
+  margin-right: 3rem;
+  text-align: start;
+}
+.detail .description .title {
+  margin-bottom: 1rem;
+  color: black;
+}
+.detail .description .des {
+  margin: 1rem 0;
+}
+.detail .description span {
+  margin-top: 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.detail .description span {
+  margin: 0.3rem 0.6rem !important;
+  /* border: 2px solid rgb(151, 150, 150); */
+  background-color: #fff;
+  color: #000;
+  width: auto !important;
+}
+
+/* .cartbutton:hover{
+    font-weight: bold;
+    font-size: medium;
+
+} */
+.btn {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+}
+
+.cartbutton {
+  display: flex;
+  justify-content: center;
+  padding: 0.2rem 1.5rem;
+  color: rgb(140, 75, 245);
+  text-align: center !important;
+  align-items: center;
+  align-content: center;
+  cursor: pointer;
+}
+.cartbutton .back h4 {
+  margin: 0 0.2rem;
+}
+.back {
+  display: flex;
+  justify-content: center;
+  padding: 0.2rem 1.5rem;
+  color: rgb(140, 75, 245);
+  text-align: center !important;
+  align-items: center;
+  align-content: center;
+  cursor: pointer;
+}
+.cartbutton .back :hover {
+  color: rgb(206, 180, 248);
+}

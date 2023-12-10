@@ -5,6 +5,7 @@
   "main": "app.js",
   "scripts": {
     "start": "nodemon app.js",
+    "postbuild":"npm install --prefix front && npm run build --prefix front",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [],

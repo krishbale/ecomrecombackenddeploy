@@ -2,7 +2,7 @@ const mongoose = require("mongoose");
 const dotenv = require("dotenv");
 const express = require("express");
 const session = require("express-session");
-
+const path = require('path');
 const app = express();
 require("dotenv").config();
 
@@ -38,16 +38,24 @@ app.use(
 const userRouter = require("./routes/user");
 const productRouter = require("./routes/product");
 
+const reactBuild = path.join(__dirname,'front', 'build',)
+app.use(express.static(reactBuild))
+
+app.get('*',async(req,res)=>{
+  res.sendFile(path.join(reactBuild,'index.html'))
+})
+
+
 app.use("/", userRouter);
 app.use("/", productRouter);
 
-//middlware
+// middlware
 
 const start = async () => {
   try {
     await connectDB(process.env.MONGODB_URL);
     app.listen(PORT, () =>
-      console.log(` Database connected and server is listening at PORT:${PORT}`)
+      console.log(` Database connected and server is listening at PORT http://localhost:${PORT}`)
     );
   } catch (e) {
     console.log(e);
