@@ -5,7 +5,10 @@ const session = require("express-session");
 const path = require('path');
 const app = express();
 require("dotenv").config();
-
+const cors = require('cors');
+app.use(cors({
+  origin: '*'
+}));
 const connectDB = require("./db/connect");
 app.use(express.json());
 const User = require("./models/userSchema");
@@ -38,17 +41,17 @@ app.use(
 const userRouter = require("./routes/user");
 const productRouter = require("./routes/product");
 
-const reactBuild = path.join(__dirname,'front', 'build',)
-app.use(express.static(reactBuild))
 
-app.get('*',async(req,res)=>{
-  res.sendFile(path.join(reactBuild,'index.html'))
-})
 
 
 app.use("/", userRouter);
 app.use("/", productRouter);
+const reactBuild = path.join(__dirname,'front', 'build',)
+app.use(express.static(reactBuild))
 
+app.get('/',async(req,res)=>{
+  res.sendFile(path.join(reactBuild,'index.html'))
+})
 // middlware
 
 const start = async () => {

@@ -8,7 +8,7 @@ router.use(cookieParser());
 // const auth = require('../middleware/auth')
 const authentication = require("../middleware/authenticate");
 
-router.get("/products/", authentication, product);
+router.get("/products", authentication, product);
 router.get("/getrecom/:id", authentication, recom);
 
 module.exports = router;
