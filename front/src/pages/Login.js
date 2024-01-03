@@ -82,6 +82,12 @@ const Login = () => {
           <Typography component="h1" variant="h5">
             Sign in
           </Typography>
+                    <p component="h1" variant="h5">
+            Username:test@gmail.com 
+          </p>
+                     <p component="h1" variant="h5">
+            Password:password 
+          </p>
           <Box component="form" onSubmit={loginUser} noValidate sx={{ mt: 1 }}>
             <TextField
               margin="normal"
